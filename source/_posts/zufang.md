@@ -1,7 +1,7 @@
 ---
 title: zufang
-tags:租房
-categories:爬虫
+tags: 租房
+categories: 爬虫
 ---
 
 ## 项目背景：
