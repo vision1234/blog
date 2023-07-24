@@ -12,3 +12,9 @@ comments: true
 ## 前端知识分享网站
 
 [angular, vue, 打包工具等](https://kidwen.top)
+
+[angular v16 signal 介绍](https://kidwen.top/post/frontend/angular-v16)
+
+[angular v16 signal api 介绍](https://kidwen.top/post/frontend/angular-signal-api)
+
+[webpack 配置详解](https://kidwen.top/post/tools/webpack)
