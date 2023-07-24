@@ -103,3 +103,13 @@ theme: reimu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+# algolia
+algolia:
+  applicationID: 'XC4TDPHBAU'
+  indexName: 'blog'
+  chunkSize: 5000
+  fields: # 指定搜索的字段（可自定义）
+    - title
+    - content
+    - categories
+    - tags
