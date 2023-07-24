@@ -34,7 +34,7 @@ my_sender = 'xxxxxx@qq.com'  # 发件人邮箱账号
 my_pass = "xxxxxxx"  # 口令
 ```
 
-![mail_sc.png](https://github.com/vision1234/images/blob/master/blog_img/mail_sc.png)
+![mail_sc.png](https://github.com/vision1234/images/blob/master/blog_img/mail_sc.png?raw=true)
 
 ### 4.昵称改不改都可以
 
@@ -49,7 +49,7 @@ msg['To'] = formataddr(["666", u])  # 括号里的对应收件人邮箱昵称、
 send_mail.mail("xxxxxx@qq.com", mail_data)
 ```
 
-![mail_sc.png](https://github.com/vision1234/images/blob/master/blog_img/main_sc.png)
+![mail_sc.png](https://github.com/vision1234/images/blob/master/blog_img/main_sc.png?raw=true)
 
 ### 6.在命令行安装python库（python3.8）
 
