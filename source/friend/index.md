@@ -16,3 +16,6 @@ comments: true
 > - [angular v16 signal api 介绍](https://kidwen.top/post/frontend/angular-signal-api)
 > - [webpack 配置详解](https://kidwen.top/post/tools/webpack)
 > - [响应式主题](https://kidwen.top/post/frontend/theming)
+
+## 友人帐
+{% friendsLink friend/_data.yml %}
