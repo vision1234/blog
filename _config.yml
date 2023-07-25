@@ -106,7 +106,7 @@ deploy:
 # algolia
 algolia:
   applicationID: 'XC4TDPHBAU'
-  apiKey: '990f7b2fa96b524bc5b1a7a2b6f51ae9'
+  apiKey: '4b313d75a8d8ddd19f0713ddd361fe62'
   adminApiKey: 'your adminApiKey'
   indexName: 'blog'
   chunkSize: 5000
