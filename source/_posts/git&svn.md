@@ -4,8 +4,7 @@ tags:
   - git
   - svn
 categories: 
-  - git
-  - svn
+  - linux
 ---
 ## Git 使用教程
 
