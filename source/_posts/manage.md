@@ -11,6 +11,10 @@ date: 2023/12/03 10:40:01
 
 # vue3+elementplus+js的后台管理系统
 
+## 项目地址
+```
+https://github.com/vision1234/image_manage
+```
 ## 项目启动前需要手动在根目录创建一个 config.js
 
 ```
